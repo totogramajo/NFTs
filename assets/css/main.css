@@ -75,12 +75,12 @@ body {
 
 body .body-mode-dark,
 body .odd {
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 body.body-mode-dark {
     background-color: var(--secondary-bg-color-2);
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 ol, ul {
@@ -117,7 +117,7 @@ blockquote, q {
 
 .odd blockquote, .odd q,
 .body-mode-dark blockquote, .body-mode-dark q {
-    border-color: var(--secondary-p-color);
+    border-color: 000000;
 }
 
 blockquote:before, blockquote:after, q:before, q:after {
@@ -1094,7 +1094,7 @@ aside {
 }
 
 .body-mode-dark.showcase.masonry .card p {
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 .showcase.portfolio .card .image-over:before {
@@ -1163,7 +1163,7 @@ aside {
 }
 
 .showcase .card-caption .card-body p {
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 .showcase:not(.news) .card-caption a:not(.btn) {
@@ -1540,7 +1540,7 @@ header .navbar-expand .navbar-brand img {
 
 .theme-mode-dark .navbar-expand:not(.navbar-sticky) .navbar-nav .dropdown-menu .nav-link:not(.btn),
 .theme-mode-dark .navbar-expand .navbar-nav .dropdown-menu .nav-link:not(.btn) {
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 .navbar-expand .navbar-nav .dropdown-menu .nav-link.title {
@@ -1641,7 +1641,7 @@ header .navbar-expand .navbar-brand img {
     padding: 0 0 0 20px;
     margin: 0 0 15px;
     list-style: none;
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 .menu .dropdown .dropdown-menu.show {
@@ -1674,7 +1674,7 @@ header .navbar-expand .navbar-brand img {
 
 .theme-mode-dark .menu .nav-link:not(.btn) {
     border: 1px solid var(--secondary-l-color);
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 .menu .nav-link:not(.btn):hover,
@@ -1709,7 +1709,7 @@ header .navbar-expand .navbar-brand img {
 }
 
 .theme-mode-dark .menu .dropdown .dropdown-menu .nav-item .nav-link {
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 .menu .dropdown .dropdown-menu .nav-link:hover,
@@ -2207,7 +2207,7 @@ header .navbar-expand .navbar-brand img {
 .body-mode-dark .pagination .page-item .page-link {
     background-color: var(--secondary-bg-color-2);
     border-color: var(--secondary-bg-color-2);
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 .pagination .page-item.active .page-link {
@@ -2606,7 +2606,7 @@ header .navbar-expand .navbar-brand img {
 
 .odd .badge.tag,
 .body-mode-dark .badge.tag {
-    color: var(--secondary-p-color);
+    color: 000000;
     border: 1px solid var(--secondary-l-color);
 }
 
@@ -2923,7 +2923,7 @@ header .navbar-expand .navbar-brand img {
 }
 
 .odd .btn-icon {
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 /* #endregion Feature */
@@ -3530,7 +3530,7 @@ footer .nav-item .nav-link {
 }
 
 footer.odd .nav-item .nav-link {
-    color: var(--secondary-p-color);
+    color: 000000;
 }
 
 footer .nav-item .nav-link:hover {
@@ -3544,7 +3544,7 @@ footer .nav-item .nav-link:hover {
 }
 
 .odd .footer-widget .badge.tag {
-    color: var(--secondary-p-color);
+    color: 000000;
     border: 1px solid var(--secondary-l-color);
 }
 
