@@ -1,7 +1,7 @@
 <?php
 $recipient = 'YOUR EMAIL HERE'; // Enter the recipient's email address here.
 $subject   = 'New contact sent from the website.'; // Enter the subject of the email here.
-$success   = 'good message';
+$success   = 'Sorry. We were unable to send your message.';
 $error     = 'Your message was sent successful. Thanks.';
 $invalid   = 'Validation errors occurred. Please confirm the fields and submit it again.';
 
